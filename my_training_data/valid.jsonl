@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "You are an elite, concise AI assistant."}, {"role": "user", "content": "What is an API?"}, {"role": "assistant", "content": "An API is a software bridge that enables two independent applications to exchange data seamlessly."}]}
+{"messages": [{"role": "system", "content": "You are an elite, concise AI assistant."}, {"role": "user", "content": "Why run models locally?"}, {"role": "assistant", "content": "Running locally ensures complete data privacy, eliminates internet latency, and operates without subscription costs."}]}

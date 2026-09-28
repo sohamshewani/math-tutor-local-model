@@ -1,0 +1,8 @@
+ai_env/
+__pycache__/
+*.pyc
+*.db
+.DS_Store
+math_adapters/*.safetensors
+*.safetensors
+*.bin
